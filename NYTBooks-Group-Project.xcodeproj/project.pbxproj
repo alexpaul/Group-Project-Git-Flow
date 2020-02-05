@@ -23,6 +23,7 @@
 		57A06DA023EAD5B900C1E00C /* BookDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A06D9F23EAD5B900C1E00C /* BookDetailView.swift */; };
 		57A06DA223EAD5DB00C1E00C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A06DA123EAD5DB00C1E00C /* SettingsView.swift */; };
 		57A06DA523EAD62600C1E00C /* ImageKit in Frameworks */ = {isa = PBXBuildFile; productRef = 57A06DA423EAD62600C1E00C /* ImageKit */; };
+		57EB4C8D23EB1CBC00425DD7 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EB4C8C23EB1CBC00425DD7 /* Secrets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		57A06D9D23EAD59100C1E00C /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
 		57A06D9F23EAD5B900C1E00C /* BookDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailView.swift; sourceTree = "<group>"; };
 		57A06DA123EAD5DB00C1E00C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		57EB4C8C23EB1CBC00425DD7 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		57A06D7323EAD2AA00C1E00C /* NYTBooks-Group-Project */ = {
 			isa = PBXGroup;
 			children = (
+				57EB4C8B23EB1CA800425DD7 /* Secrets */,
 				57A06D9A23EAD53800C1E00C /* Network Services */,
 				57A06D8A23EAD3B200C1E00C /* Models */,
 				57A06D8B23EAD3BB00C1E00C /* Views */,
@@ -134,6 +137,14 @@
 				57A06D9823EAD52F00C1E00C /* NYTAPIClient.swift */,
 			);
 			path = "Network Services";
+			sourceTree = "<group>";
+		};
+		57EB4C8B23EB1CA800425DD7 /* Secrets */ = {
+			isa = PBXGroup;
+			children = (
+				57EB4C8C23EB1CBC00425DD7 /* Secrets.swift */,
+			);
+			path = Secrets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -221,6 +232,7 @@
 				57A06D9523EAD49F00C1E00C /* BookDetailViewController.swift in Sources */,
 				57A06D7723EAD2AA00C1E00C /* SceneDelegate.swift in Sources */,
 				57A06D9923EAD52F00C1E00C /* NYTAPIClient.swift in Sources */,
+				57EB4C8D23EB1CBC00425DD7 /* Secrets.swift in Sources */,
 				57A06D9723EAD50700C1E00C /* NYTBook.swift in Sources */,
 				57A06D9323EAD48000C1E00C /* SettingsViewController.swift in Sources */,
 				57A06D9C23EAD56000C1E00C /* NYTBestSellersView.swift in Sources */,
