@@ -30,3 +30,6 @@ NYTBooks group project.
 
 ## Open pull request when feature is complete
 ![open pull request](https://user-images.githubusercontent.com/1819208/73843553-dcc56780-47ec-11ea-9531-53027586ef9f.png)
+
+## Tag names in PR (pull request) 
+![tag names in PR](https://user-images.githubusercontent.com/1819208/73843577-ea7aed00-47ec-11ea-971a-9dd3b73082ab.png)
