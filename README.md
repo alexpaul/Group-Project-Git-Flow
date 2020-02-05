@@ -124,3 +124,6 @@ After completing the merge the feature-branch should be deleted on Github and on
 1. git branch (list your local branches, current branch is green with *)
 1. git branch -a (list local and remote branches)
 1. git log (list commits) 
+1. git checkout branch-name (navigate to branch-name)
+1. git stash (ignore most recent changes as you don't want to commit changes)
+1. git branch -d branch-name (delete branch-name)git 
