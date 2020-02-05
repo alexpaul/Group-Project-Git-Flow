@@ -23,5 +23,10 @@ NYTBooks group project.
 ## Push access now is granted for collaborator
 ![push access granted](https://user-images.githubusercontent.com/1819208/73843515-cae3c480-47ec-11ea-81ef-bc6cfbabb696.png)
 
+## Create a new branch off master for your feature 
+> Make sure to pull the latest changes from master first
+> Create a new branch from master with the following Terminal command
+> git checkout -b main-book-feed
+
 ## Open pull request when feature is complete
 ![open pull request](https://user-images.githubusercontent.com/1819208/73843553-dcc56780-47ec-11ea-9531-53027586ef9f.png)
