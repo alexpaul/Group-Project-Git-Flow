@@ -33,3 +33,18 @@ NYTBooks group project.
 
 ## Tag names in PR (pull request) 
 ![tag names in PR](https://user-images.githubusercontent.com/1819208/73843577-ea7aed00-47ec-11ea-971a-9dd3b73082ab.png)
+
+## PR is now open 
+![pr open](https://user-images.githubusercontent.com/1819208/73843601-f5358200-47ec-11ea-9411-25dc093647c6.png)
+
+## Review files changes in PR 
+![code review](https://user-images.githubusercontent.com/1819208/73843682-172f0480-47ed-11ea-9f76-db0bae02f400.png)
+
+## Other team membeer will review changes 
+![other member will merge](https://user-images.githubusercontent.com/1819208/73843646-04b4cb00-47ed-11ea-91fd-93110cc6824b.png)
+
+## Confirm and merge PR 
+![merge pr](https://user-images.githubusercontent.com/1819208/73843712-23b35d00-47ed-11ea-8c7c-1dfd68bc3c70.png)
+
+## Delete Github feature branch and on member's local machine as well 
+![delete branch](https://user-images.githubusercontent.com/1819208/73843753-3d54a480-47ed-11ea-9523-00799b11a21e.png)
