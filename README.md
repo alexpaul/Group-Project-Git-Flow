@@ -20,6 +20,9 @@ Add a .gitignore file on Github. At minimum include the .DS_Store and /Secrets f
 #### Add files, folders to be ignored in the .gitignore file
 ![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73855530-34ba9900-4802-11ea-8928-7daeffe5d94a.png)
 
+## Create the /Secrets folder 
+
+
 ## Add Colloborators
 
 A free Github account allows for three (3) collaborators. The team member who created the Xcode project and Github repo now needs to invite their team members to the project. Go to Setting page of the reop and click on Collaborators in the left column. 
@@ -107,3 +110,17 @@ In code review was passed and all is well at this point the feature-branch will 
 After completing the merge the feature-branch should be deleted on Github and on the team members local machine.
 
 ![delete branch](https://user-images.githubusercontent.com/1819208/73843753-3d54a480-47ed-11ea-9523-00799b11a21e.png)
+
+## Useful git commands 
+
+1. git pull (get changes from remote)
+1. git push (send changes to remote branch)
+1. git push --set-upstream origin branch-name (set upstream - connect local repo to remote)
+1. git status (show modifications if any to the working area)
+1. git commit -m "awesome change" (the message associated with the commit)
+1. git add . (be very carefull with this command as it will add all modified files to the staging area, make sure you want to add all files when using this command)
+1. git add filename
+1. git checkout -b new-branch-name (creates a new branch) 
+1. git branch (list your local branches, current branch is green with *)
+1. git branch -a (list local and remote branches)
+1. git log (list commits) 
