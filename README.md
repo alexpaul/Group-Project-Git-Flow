@@ -5,6 +5,7 @@ Below are some best practices for working in a team and using git and Github.
 One team member should create the initial Xcode project. Add all the necessary files, folders and assets required to get the project up and running. When the scaffold project is done this team member will create a local repository through Terminal or Xcode and push the repo to Github.
 
 [Git commands summary](#gitcommandsummary)
+[Reading Resources](#reading-resources)
 
 ## Create the basic files needed to get the project started
 ![basic files needed](https://user-images.githubusercontent.com/1819208/73835949-50ab4400-47dc-11ea-8d2f-a659862a056c.png)
@@ -135,3 +136,7 @@ After completing the merge the feature-branch should be deleted on Github and on
 | git stash | (ignore most recent changes as you don't want to commit changes) |
 | git branch -d branch-name | (delete branch-name) |
 | :wq | (save and exit vim) |
+
+## Reading Resources <a name="reading-resources"></a?
+
+1. [Github - About merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
