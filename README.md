@@ -137,6 +137,6 @@ After completing the merge the feature-branch should be deleted on Github and on
 | git branch -d branch-name | (delete branch-name) |
 | :wq | (save and exit vim) |
 
-## Reading Resources <a name="reading-resources"></a?
+## Reading Resources <a name="reading-resources"></a>
 
 1. [Github - About merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
