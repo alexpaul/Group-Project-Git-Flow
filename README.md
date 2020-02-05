@@ -79,7 +79,7 @@ File diff changes will show lines of code that was added or deleted as a result 
 
 ![code review](https://user-images.githubusercontent.com/1819208/73843682-172f0480-47ed-11ea-9f76-db0bae02f400.png)
 
-## Other team membeer will review changes 
+## Other team member will review changes 
 
 ![other member will merge](https://user-images.githubusercontent.com/1819208/73843646-04b4cb00-47ed-11ea-91fd-93110cc6824b.png)
 
