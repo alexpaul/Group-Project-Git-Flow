@@ -113,18 +113,21 @@ After completing the merge the feature-branch should be deleted on Github and on
 
 ## Useful git commands 
 
-1. git pull (get changes from remote)
-1. git push (send changes to remote branch)
-1. git push --set-upstream origin branch-name (set upstream - connect local repo to remote)
-1. git status (show modifications if any to the working area)
-1. git commit -m "awesome change" (the message associated with the commit)
-1. git add . (be very carefull with this command as it will add all modified files to the staging area, make sure you want to add all files when using this command)
-1. git add filename
-1. git checkout -b new-branch-name (creates a new branch) 
-1. git branch (list your local branches, current branch is green with *)
-1. git branch -a (list local and remote branches)
-1. git log (list commits) 
-1. git checkout branch-name (navigate to branch-name)
-1. git stash (ignore most recent changes as you don't want to commit changes)
-1. git branch -d branch-name (delete branch-name)
-1. :wq (save and exit vim)
+| Command | Summary | 
+|:------:|:-------|
+| git pull ||(get changes from remote |
+| git pull | (get changes from remote) |
+| git push | (send changes to remote branch) |
+| git push | --set-upstream origin branch-name (set upstream - connect local repo to remote) |
+| git status | (show modifications if any to the working area)
+| git commit -m "awesome change" | (the message associated with the commit) |
+| git add . | (be very carefull with this command as it will add all modified files to the staging area, make sure you want to add all files when using this command) |
+| git add filename | |
+| git checkout -b new-branch-name | (creates a new branch) |
+| git branch | (list your local branches, current branch is green with ```*```) |
+| git branch -a | (list local and remote branches) |
+| git log | (list commits) |
+| git checkout branch-name | (navigate to branch-name) |
+| git stash | (ignore most recent changes as you don't want to commit changes) |
+| git branch -d branch-name | (delete branch-name) |
+| :wq | (save and exit vim) |
