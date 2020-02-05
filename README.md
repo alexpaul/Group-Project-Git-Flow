@@ -18,7 +18,7 @@ Add a .gitignore file on Github. At minimum include the .DS_Store and /Secrets f
 ![create gitignore file](https://user-images.githubusercontent.com/1819208/73855486-22d8f600-4802-11ea-99fe-e5f879c51c92.png)
 
 #### Add files, folders to be ignored in the .gitignore file
-![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73855530-34ba9900-4802-11ea-8928-7daeffe5d94a.png)
+![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73858305-30907a80-4806-11ea-8368-64bc01dcb6fd.png)
 
 ## Create the /Secrets folder 
 
