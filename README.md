@@ -16,3 +16,6 @@ NYTBooks group project.
 
 ## Email invitation 
 ![email invitation](https://user-images.githubusercontent.com/1819208/73843449-adaef600-47ec-11ea-9746-62bb0d988277.png)
+
+## Email invitation redirect 
+![email invitation redirect](https://user-images.githubusercontent.com/1819208/73843478-bc95a880-47ec-11ea-8d91-434f9c30f8a3.png)
