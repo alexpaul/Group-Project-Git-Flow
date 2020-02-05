@@ -11,6 +11,15 @@ One team member should create the initial Xcode project. Add all the necessary f
 
 Add a .gitignore file on Github. At minimum include the .DS_Store and /Secrets folder to the .gitignore. 
 
+#### Create a new file 
+![create new file](https://user-images.githubusercontent.com/1819208/73855350-fb822900-4801-11ea-8f24-1f0f2db4c935.png)
+
+#### Create .gitignore file and select swift template
+![create gitignore file](https://user-images.githubusercontent.com/1819208/73855486-22d8f600-4802-11ea-99fe-e5f879c51c92.png)
+
+#### Add files, folders to be ignored in the .gitignore file
+![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73855530-34ba9900-4802-11ea-8928-7daeffe5d94a.png)
+
 ## Add Colloborators
 
 A free Github account allows for three (3) collaborators. The team member who created the Xcode project and Github repo now needs to invite their team members to the project. Go to Setting page of the reop and click on Collaborators in the left column. 
