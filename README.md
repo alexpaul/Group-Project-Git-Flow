@@ -113,7 +113,7 @@ After completing the merge the feature-branch should be deleted on Github and on
 
 ![delete branch](https://user-images.githubusercontent.com/1819208/73843753-3d54a480-47ed-11ea-9523-00799b11a21e.png)
 
-## Useful git commands # {gitcommandsummary}
+## Useful git commands <a name="gitcommandsummary"></a>
 
 | Command | Summary | 
 |:------:|:-------|
