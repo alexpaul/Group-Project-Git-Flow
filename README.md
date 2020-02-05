@@ -13,3 +13,6 @@ NYTBooks group project.
 
 ## Collaborators invitation waiting screen 
 ![waiting invitation screen](https://user-images.githubusercontent.com/1819208/73843412-9a9c2600-47ec-11ea-9a7e-8b4c5f225ccf.png)
+
+## Email invitation 
+![email invitation](https://user-images.githubusercontent.com/1819208/73843449-adaef600-47ec-11ea-9746-62bb0d988277.png)
