@@ -121,7 +121,7 @@ After completing the merge the feature-branch should be deleted on Github and on
 | git pull ||(get changes from remote |
 | git pull | (get changes from remote) |
 | git push | (send changes to remote branch) |
-| git push | --set-upstream origin branch-name (set upstream - connect local repo to remote) |
+| git push --set-upstream origin branch-name | (set upstream - connect local repo to remote) |
 | git status | (show modifications if any to the working area)
 | git commit -m "awesome change" | (the message associated with the commit) |
 | git add . | (be very carefull with this command as it will add all modified files to the staging area, make sure you want to add all files when using this command) |
