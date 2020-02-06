@@ -118,7 +118,6 @@ After completing the merge the feature-branch should be deleted on Github and on
 
 | Command | Summary | 
 |:------:|:-------|
-| git pull ||(get changes from remote |
 | git pull | (get changes from remote) |
 | git push | (send changes to remote branch) |
 | git push --set-upstream origin branch-name | (set upstream - connect local repo to remote) |
