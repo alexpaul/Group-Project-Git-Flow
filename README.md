@@ -21,7 +21,7 @@ Add a .gitignore file on Github. At minimum include the .DS_Store and /Secrets f
 ![create gitignore file](https://user-images.githubusercontent.com/1819208/73855486-22d8f600-4802-11ea-99fe-e5f879c51c92.png)
 
 #### Add files, folders to be ignored in the .gitignore file
-![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73858305-30907a80-4806-11ea-8368-64bc01dcb6fd.png)
+![add filename to gitignore](https://user-images.githubusercontent.com/1819208/73982020-7d0cb080-4901-11ea-8451-64cbc1b49323.png)
 
 
 ## 3. Add Colloborators
